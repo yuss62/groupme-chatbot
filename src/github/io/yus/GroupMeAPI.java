@@ -1,4 +1,4 @@
-package github.io.wreed12345;
+package github.io.yuss62;
 
 public final class GroupMeAPI
 {
